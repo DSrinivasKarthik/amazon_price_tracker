@@ -1,5 +1,5 @@
 # Amazon Price Tracker
-
+---
 The Amazon Price Tracker is a Python application that allows users to track the price of a specific product on Amazon and receive email notifications when the price falls within a predefined budget.
 
 ## Features
