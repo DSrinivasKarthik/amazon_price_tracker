@@ -14,7 +14,7 @@ The Amazon Price Tracker is a Python application that allows users to track the 
 1. Clone this GitHub repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/amazon-price-tracker.git
+   git clone https://github.com/DSrinivasKarthik/amazon_price_tracker.git
 
 2. Navigate to the project directory.
 
